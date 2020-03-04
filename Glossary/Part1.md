@@ -22,4 +22,14 @@
 
 **Automatic variables** - Also called method local or stack variables.  Automatic variables that are declared within a method and discarded when the method has completed.
 
- 
+
+**Base class** - A class which has been extended.  If class D extends class B, then class B is the base class of class D.
+
+
+**Blocked state** - A thread that is waiting for a resource, such as a lock, to become available is said to be in a blocked state.  Blocked threads consume no processor resources.
+
+
+**Boolean expression** - An expression that results in a value of __true__ or __false__. Typically, this involves a comparison (e.g. x > 2) or a boolean condition such as (x < 5 && y > 3), but can alsoinvolve a method with a boolean return type.
+
+
+**boolean primitives** - A primitive boolean value can be defined only as either true or false. 
