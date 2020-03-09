@@ -29,7 +29,7 @@
 **Blocked state** - A thread that is waiting for a resource, such as a lock, to become available is said to be in a blocked state.  Blocked threads consume no processor resources.
 
 
-**Boolean expression** - An expression that results in a value of __true__ or __false__. Typically, this involves a comparison (e.g. x > 2) or a boolean condition such as (x < 5 && y > 3), but can alsoinvolve a method with a boolean return type.
+**Boolean expression** - An expression that results in a value of __true__ or __false__. Typically, this involves a comparison (e.g. x > 2) or a boolean condition such as (x < 5 && y > 3), but can also involve a method with a boolean return type.
 
 
 **boolean primitives** - A primitive boolean value can be defined only as either true or false.
