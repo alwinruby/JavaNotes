@@ -21,4 +21,10 @@
 **Class members** - things that belong to a class including methods (static and non static), variable (static and non static), nested classes (static and non static).  Class members can have any of the four access control levels (public, protected, default(package) and private).
 
 
-**Class methods** -
+**Class methods** - often referred to as a static method, may be accessed directly from a class without instantiating the class first.
+
+
+**Class variable** - _See static variable_
+
+
+**Collection** - An object used to store other objects. Collections are also commonly referred to as containers.  Two common examples of collections are HashMap and ArrayList.
